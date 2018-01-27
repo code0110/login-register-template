@@ -1,0 +1,21 @@
+{
+  "name": "login-register-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  },
+  "devDependencies": {
+    "gulp-concat-css": "^2.3.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-minify": "^1.0.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "code0110 <cod.binar@gmail.com>",
+  "license": "ISC"
+}
